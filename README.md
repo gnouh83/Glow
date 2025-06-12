@@ -6,7 +6,7 @@ A simple, clean, and powerful tweak for Facebook
    <tr>
       <td><img src="Sileo/screenshot1.jpg" alt="Screenshot 1" /></td>
       <td><img src="Sileo/screenshot2.jpg" alt="Screenshot 2" /></td>
-      <td><img src="Sileo/screenshot3.png" alt="Screenshot 3" /></td>
+      <td><img src="Sileo/screenshot3.jpg" alt="Screenshot 3" /></td>
    </tr>
 </table>
 
