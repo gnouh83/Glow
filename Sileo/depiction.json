@@ -74,6 +74,34 @@
             ],
             "class": "DepictionStackView",
             "tabname": "Details"
+        },
+        {
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Version 1.0.1"
+                },
+                {
+                    "markdown": "- Fixed anonymously watching stories\n- Disables auto advancing to next users story",
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Version 1.0"
+                },
+                {
+                    "markdown": "- Initial release",
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                }
+            ],
+            "class": "DepictionStackView",
+            "tabname": "Changelog"
         }
     ]
 }
