@@ -1,0 +1,60 @@
+"Main" = "Principal";
+"RemoveAds" = "Supprimer les publicités";
+"RemovePYMK" = "Remove \"Les gens que vous connaissez peut-être\"";
+"RemoveReelsCarousel" = "Retirer le carrousel de bobines";
+"PostLikeConfirm" = "Confirmer le post comme";
+"DownloadVideos" = "Télécharger des vidéos";
+"DownloadVideosDesc" = "Téléchargez des vidéos à partir du flux et des stories avec un appui long";
+
+"Reels" = "Réels";
+"DownloadReels" = "Télécharger les Réels";
+"HideOverlay" = "Masquer la superposition";
+"ReelsLikeConfirm" = "Confirmez les réels comme";
+"ReelsLongTap" = "Télécharger par appui long";
+"ReelsLongTapDesc" = "Solution de secours pour les anciennes versions sans bouton de téléchargement";
+
+"Stories" = "Stories";
+"DownloadStories" = "Télécharger des stories";
+"AnonymousStories" = "Regarder anonymement";
+"DisableAutoNext" = "Désactiver l'avance automatique";
+"RemoveStoryPYMK" = "Supprimer \"Les gens que vous connaissez peut-être\"";
+
+"Cache" = "Cache";
+"AutoClearCache" = "Vider le cache au démarrage";
+"ClearCache" = "Vider le cache";
+
+"Developer" = "Développeurs";
+
+"DiscordDesc" = "Rejoignez-nous pour obtenir de l'aide, des commentaires ou discuter";
+"GithubDesc" = "Le référentiel de Glow";
+"DvntmsDesc" = "Tous mes dépôts au même endroit";
+
+"FollowMe" = "Suivez %@ sur Twitter";
+"DonateMe" = "Glow est entièrement gratuit. N'hésitez pas à m'offrir un café pour soutenir son développement.";
+"StoreDesc" = "Obtenez un certificat de développeur et profitez d'une large gamme d'applications exclusives";
+
+"DeveloperFooter" = "Codé avec ❤️";
+
+"DownloadVideo" = "Télécharger la vidéo";
+"DownloadStory" = "Télécharger la storie";
+"Downloading" = "Téléchargement";
+"Cancel" = "Annuler";
+"SavedToPhotos" = "Enregistré dans les photos";
+"ImageNotFound" = "Image introuvable";
+"MarkAsSeen" = "Marquer comme vu";
+"MarkedAsSeen" = "Marqué comme vu";
+"SomethingWentWrong" = "Quelque chose s'est mal passé";
+"GlowSettings" = "Paramètres de Glow";
+
+"Welcome.Download" = "Télécharger des médias";
+"Welcome.DownloadDesc" = "Téléchargez ce que vous voulez : vidéos, images, Reels et même des stories.";
+"Welcome.Incognito" = "Mode navigation privée";
+"Welcome.IncognitoDesc" = "Restez invisible. Consultez les stories et marquez-les comme vues uniquement lorsque vous le souhaitez.";
+"Welcome.Confirmation" = "Confirmation";
+"Welcome.ConfirmationDesc" = "Vous craignez les likes accidentels? Détendez-vous.";
+"Welcome.Settings" = "Simplicité";
+"Welcome.SettingsDesc" = "Paramètres flexibles et intuitifs, tous adaptés à vos besoins.";
+"Welcome.More" = "Et plus encore";
+"Welcome.MoreDesc" = "Glow ne se résume pas à une simple liste de fonctionnalités. Il offre encore plus d'outils pour plus de confort et d'intimité.";
+"Welcome.SettingsInfo" = "Les paramètres de Glow sont disponibles en appuyant longuement sur n'importe quel onglet";
+"Continue" = "Continuer";

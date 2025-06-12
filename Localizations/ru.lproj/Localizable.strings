@@ -1,0 +1,60 @@
+"Main" = "Основные";
+"RemoveAds" = "Убрать рекламу";
+"RemovePYMK" = "Убрать «Знакомых»";
+"RemoveReelsCarousel" = "Убрать карусели с Reels";
+"PostLikeConfirm" = "Подтверждать лайк постов";
+"DownloadVideos" = "Загрузка видео";
+"DownloadVideosDesc" = "Позволяет скачивать видео в ленте и в историях долгим нажатием";
+
+"Reels" = "Reels";
+"DownloadReels" = "Загрузка Reels";
+"HideOverlay" = "Скрытие интерфейса";
+"ReelsLikeConfirm" = "Подтверждать лайк Reels";
+"ReelsLongTap" = "Загрузка долгим нажатием";
+"ReelsLongTapDesc" = "Альтернатива для старых версий без кнопки загрузки";
+
+"Stories" = "Истории";
+"DownloadStories" = "Загрузка историй";
+"AnonymousStories" = "Анонимный просмотр";
+"DisableAutoNext" = "Отключить авто-переход";
+"RemoveStoryPYMK" = "Убрать «Знакомых» в баннере";
+
+"Cache" = "Кеш";
+"AutoClearCache" = "Очищать кеш при запуске";
+"ClearCache" = "Очистить кеш";
+
+"Developer" = "Разработчики";
+
+"DiscordDesc" = "Место для быстрая помощи, отзыва и общения";
+"GithubDesc" = "Репозиторий Glow";
+"DvntmsDesc" = "Все мои репозитории в одном месте";
+
+"FollowMe" = "Подписаться на %@ в Twitter";
+"DonateMe" = "Glow полностью бесплатный. Вы можете угостить меня чашечкой кофе, чтобы поддержать разработку";
+"StoreDesc" = "Сертификат разработчика и множество крутых приложений в одном месте";
+
+"DeveloperFooter" = "Создано с ❤️";
+
+"DownloadVideo" = "Скачать видео";
+"DownloadStory" = "Скачать историю";
+"Downloading" = "Загрузка";
+"Cancel" = "Отмена";
+"SavedToPhotos" = "Сохранено в Фото";
+"ImageNotFound" = "Изображение не найдено";
+"MarkAsSeen" = "Просмотреть";
+"MarkedAsSeen" = "Отмечено просмотренным";
+"SomethingWentWrong" = "Что-то пошло не так";
+"GlowSettings" = "Настройки Glow";
+
+"Welcome.Download" = "Загрузка медиа";
+"Welcome.DownloadDesc" = "Скачивайте всё, что вам по душе — видео, изображения, Reels и даже истории.";
+"Welcome.Incognito" = "Анонимность";
+"Welcome.IncognitoDesc" = "Оставайтесь незаметным. Просматривайте истории и отмечайте их просмотренными только по желанию.";
+"Welcome.Confirmation" = "Подтверждение";
+"Welcome.ConfirmationDesc" = "Боитесь случайно поставить лайк? Теперь об этом можно не волноваться.";
+"Welcome.Settings" = "Простота";
+"Welcome.SettingsDesc" = "Гибкие и интуитивные настройки — всё подстроено под вас.";
+"Welcome.More" = "И даже больше";
+"Welcome.MoreDesc" = "Glow — это не просто набор функций. Здесь скрыто ещё больше возможностей для комфорта и конфиденциальности.";
+"Welcome.SettingsInfo" = "Настройки Glow доступны долгим нажатием по любой из вкладок";
+"Continue" = "Продолжить";

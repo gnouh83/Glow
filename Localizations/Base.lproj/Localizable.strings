@@ -1,0 +1,60 @@
+"Main" = "Main";
+"RemoveAds" = "Remove ads";
+"RemovePYMK" = "Remove \"People you may know\"";
+"RemoveReelsCarousel" = "Remove reels carousel";
+"PostLikeConfirm" = "Confirm post like";
+"DownloadVideos" = "Download videos";
+"DownloadVideosDesc" = "Download videos from feed and stories with a long press";
+
+"Reels" = "Reels";
+"DownloadReels" = "Download reels";
+"HideOverlay" = "Hide overlay";
+"ReelsLikeConfirm" = "Confirm reels like";
+"ReelsLongTap" = "Download via long press";
+"ReelsLongTapDesc" = "Fallback for older versions missing the download button";
+
+"Stories" = "Stories";
+"DownloadStories" = "Download stories";
+"AnonymousStories" = "Watch anonymously";
+"DisableAutoNext" = "Disable auto advancing";
+"RemoveStoryPYMK" = "Remove \"People you may know\"";
+
+"Cache" = "Cache";
+"AutoClearCache" = "Clear cache on startup";
+"ClearCache" = "Clear cache";
+
+"Developer" = "Developers";
+
+"DiscordDesc" = "Join for support, feedback, or a chat";
+"GithubDesc" = "Glow's repository";
+"DvntmsDesc" = "All my repos in one place";
+
+"FollowMe" = "Follow %@ on Twitter";
+"DonateMe" = "Glow is completely free. Feel free to buy me a coffee to support its development";
+"StoreDesc" = "Get a developer certificate and enjoy a wide range of exclusive apps";
+
+"DeveloperFooter" = "Coded with ❤️";
+
+"DownloadVideo" = "Download video";
+"DownloadStory" = "Download story";
+"Downloading" = "Downloading";
+"Cancel" = "Cancel";
+"SavedToPhotos" = "Saved to Photos";
+"ImageNotFound" = "Image not found";
+"MarkAsSeen" = "Mark as seen";
+"MarkedAsSeen" = "Marked as seen";
+"SomethingWentWrong" = "Something went wrong";
+"GlowSettings" = "Glow settings";
+
+"Welcome.Download" = "Download Media";
+"Welcome.DownloadDesc" = "Download whatever you like — videos, images, Reels, and even stories.";
+"Welcome.Incognito" = "Incognito Mode";
+"Welcome.IncognitoDesc" = "Stay unseen. View stories and mark them as seen only when you want to.";
+"Welcome.Confirmation" = "Confirmation";
+"Welcome.ConfirmationDesc" = "Worried about accidental likes? Now you can relax.";
+"Welcome.Settings" = "Simplicity";
+"Welcome.SettingsDesc" = "Flexible, intuitive settings — all tailored to you.";
+"Welcome.More" = "And More";
+"Welcome.MoreDesc" = "Glow isn’t just a list of features. It unlocks even more tools for comfort and privacy.";
+"Welcome.SettingsInfo" = "Glow settings are available via long press on any tab";
+"Continue" = "Continue";

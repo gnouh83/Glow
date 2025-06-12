@@ -1,0 +1,60 @@
+"Main" = "الرئيسية";
+"RemoveAds" = "ازالة الإعلانات";
+"RemovePYMK" = "ازالة اشخاص قد تعرفهم";
+"RemoveReelsCarousel" = "ازالة الريلز من الصفحة الرئيسية";
+"PostLikeConfirm" = "تأكيد الإعجاب";
+"DownloadVideos" = "حفظ الفيديوهات";
+"DownloadVideosDesc" = "يتيح لك حفظ جميع الفيديوهات والقصص بالضغط المطوّل";
+
+"Reels" = "الريلز";
+"DownloadReels" = "حفظ فيديوهات الريلز";
+"HideOverlay" = "اخفاء الأزرار";
+"ReelsLikeConfirm" = "تأكيد الإعجاب";
+"ReelsLongTap" = "الحفظ بالضغط المطوّل";
+"ReelsLongTapDesc" = "بديل للإصدارات القديمة التي لا تحتوي على زر التنزيل";
+
+"Stories" = "القصص";
+"DownloadStories" = "حفظ القصص";
+"AnonymousStories" = "مشاهدة القصص بشكل متخفي";
+"DisableAutoNext" = "تعطيل التقدم التلقائي";
+"RemoveStoryPYMK" = "ازالة اشخاص قد تعرفهم";
+
+"Cache" = "الملفات المؤقته";
+"AutoClearCache" = "تنظيف الملفات المؤقته عند بدء التطبيق";
+"ClearCache" = "تنظيف الملفات المؤقته";
+
+"Developer" = "المطورين";
+
+"DiscordDesc" = "انضم للدعم او ابلاغ او الدردشة";
+"GithubDesc" = "سورس اداة Glow";
+"DvntmsDesc" = "جميع اعمالي في مكان واحد";
+
+"FollowMe" = "متابعة %@ على تويتر";
+"DonateMe" = "الأداة مجانية بشكل كامل، ادعمني بكوب قهوة للإستمرار بتطوير الأداة";
+"StoreDesc" = "احصل على اشتراك سنوي بمتجر تطبيقات بلس مع العديد من التطبيقات الحصرية";
+
+"DeveloperFooter" = "تم برمجتها بـ ❤️";
+
+"DownloadVideo" = "حفظ الفيديو";
+"DownloadStory" = "حفظ القصة";
+"Downloading" = "جارٍ الحفظ";
+"Cancel" = "الغاء";
+"SavedToPhotos" = "تم الحفظ في البوم الصور";
+"ImageNotFound" = "لم يتم العثور على الصورة";
+"MarkAsSeen" = "ارسال اشعار مشاهدة";
+"MarkedAsSeen" = "تمت مشاهدة القصة";
+"SomethingWentWrong" = "حدث خطأ";
+"GlowSettings" = "اعدادات Glow";
+
+"Welcome.Download" = "حفظ الفيديوهات";
+"Welcome.DownloadDesc" = "احفظ كل ماتريد من فيديوهات، صور.، ريلز ، وحتى القصص";
+"Welcome.Incognito" = "وضع التخفّي";
+"Welcome.IncognitoDesc" = "ابقَ غير مرئي. شاهد القصص واعتبرها مُشاهدة فقط عندما ترغب بذلك.";
+"Welcome.Confirmation" = "التأكيد";
+"Welcome.ConfirmationDesc" = "قلق من الإعجابات غير المقصودة؟ الآن يمكنك أن تطمئن.";
+"Welcome.Settings" = "البساطة";
+"Welcome.SettingsDesc" = "إعدادات مرنة وبديهية — مصممة خصيصًا لك.";
+"Welcome.More" = "والمزيد ايضًا";
+"Welcome.MoreDesc" = "Glow ليست مجرد قائمة ميزات، بل توفر أدوات إضافية تمنحك راحة وخصوصية أكبر.";
+"Welcome.SettingsInfo" = "يمكن الوصول الى اعدادات Glow بالضغط المطوّل على اي تبويب";
+"Continue" = "الإستمرار";
