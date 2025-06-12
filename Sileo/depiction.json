@@ -1,0 +1,79 @@
+  {
+    "minVersion": "0.1",
+    "headerImage": "https://raw.githubusercontent.com/dayanch96/Glow/refs/heads/main/Sileo/header.png",
+    "class": "DepictionTabView",
+    "tintColor": "#B5DAFC",
+    "tabs": [
+        {
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBottomMargin": false,
+                    "title": "Glow for Facebook",
+                    "useBoldText": true
+                },
+                {
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Cleaner. Smarter. Yours."
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://raw.githubusercontent.com/dayanch96/Glow/refs/heads/main/Sileo/screenshot1.jpg"
+                        },
+                        {
+                            "accessibilityText": "Screenshot1",
+                            "url": "https://raw.githubusercontent.com/dayanch96/Glow/refs/heads/main/Sileo/screenshot2.jpg"
+                        },
+                        {
+                            "accessibilityText": "Screenshot2",
+                            "url": "https://raw.githubusercontent.com/dayanch96/Glow/refs/heads/main/Sileo/screenshot3.jpg"
+                        },
+                        {
+                            "accessibilityText": "Screenshot3",
+                            "url": "https://raw.githubusercontent.com/dayanch96/Glow/refs/heads/main/Sileo/screenshot4.jpg"
+                        },
+                        {
+                            "accessibilityText": "Screenshot4",
+                            "url": "https://raw.githubusercontent.com/dayanch96/Glow/refs/heads/main/Sileo/screenshot5.jpg"
+                        }
+                    ],
+                    "itemSize": "{160, 275.41333333333336}",
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6
+                },
+                {
+                    "markdown": "### Features:\n- Download whatever you like — videos, images, Reels, and even stories\n- Stay unseen. View stories and mark them as seen only when you want to\n- Worried about accidental likes? Now you can relax\n- Flexible, intuitive settings — all tailored to you\n\n*Glow settings are available via long press on any tab*",
+                    "class": "DepictionMarkdownView",
+                    "useBottomMargin": false,
+                    "title": "markdown-description",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "dvntm, nowesr1",
+                    "class": "DepictionTableTextView",
+                    "title": "Developers"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "class": "DepictionStackView",
+            "tabname": "Details"
+        }
+    ]
+}
