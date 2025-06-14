@@ -95,9 +95,6 @@
                 {
                     "markdown": "- Initial release",
                     "class": "DepictionMarkdownView"
-                },
-                {
-                    "class": "DepictionSeparatorView"
                 }
             ],
             "class": "DepictionStackView",
