@@ -19,9 +19,9 @@
 "DisableAutoNext" = "تعطيل التقدم التلقائي";
 "RemoveStoryPYMK" = "ازالة اشخاص قد تعرفهم";
 
-"Downloader" = "Video Downloader";
-"AllFormats" = "Include all formats";
-"AllFormatsDesc" = "Adds all available formats to the download menu.\nNote: Most formats require re-encoding, which may affect download speed.";
+"Downloader" = "مدير تنزيلات الفيديو";
+"AllFormats" = "تمكين جميع الصيغ";
+"AllFormatsDesc" = "يُضيف جميع الصيغ المتاحة إلى قائمة التنزيل.\nملاحظة: معظم الصيغ تتطلب إعادة ترميز، مما قد يؤثر على سرعة التنزيل.";
 
 "Cache" = "الملفات المؤقته";
 "AutoClearCache" = "تنظيف الملفات المؤقته عند بدء التطبيق";
@@ -42,13 +42,13 @@
 "DownloadVideo" = "حفظ الفيديو";
 "DownloadStory" = "حفظ القصة";
 "Downloading" = "جارٍ الحفظ";
-"DownloadingVideo" = "Downloading video";
-"DownloadingAudio" = "Downloading audio";
-"Slow" = "Requires re-encoding";
-"Fast" = "Ultra fast";
-"MergingMedia" = "Merging media";
-"WaitsForConversion" = "Queued for conversion";
-"Error.Clipboard" = "Error. Check clipboard for log";
+"DownloadingVideo" = "تنزيل الفيديو";
+"DownloadingAudio" = "تنزيل الصوت";
+"Slow" = "يتطلب اعادة ترميز";
+"Fast" = "فائق السرعة";
+"MergingMedia" = "دمج الوسائط";
+"WaitsForConversion" = "في قائمة الانتظار للتحويل";
+"Error.Clipboard" = "خطأ. تحقق من الحافظة للاطلاع على السجل.";
 "Cancel" = "الغاء";
 "SavedToPhotos" = "تم الحفظ في البوم الصور";
 "ImageNotFound" = "لم يتم العثور على الصورة";
