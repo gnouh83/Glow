@@ -1,0 +1,60 @@
+"Main" = "Główna";
+"RemoveAds" = "Usuń reklamy";
+"RemovePYMK" = "Usuń „Ludzie, których możesz znać”";
+"RemoveReelsCarousel" = "Usuń karuzelę reelsów";
+"PostLikeConfirm" = "Potwierdź polubienie posta";
+"DownloadVideos" = "Pobieraj filmy";
+"DownloadVideosDesc" = "Pobieraj filmy z feedu i relacji przez długie naciśnięcie";
+
+"Reels" = "Reelsy";
+"DownloadReels" = "Pobierz reelsy";
+"HideOverlay" = "Ukryj nakładkę";
+"ReelsLikeConfirm" = "Potwierdź polubienie reelsa";
+"ReelsLongTap" = "Pobierz przez długie naciśnięcie";
+"ReelsLongTapDesc" = "Alternatywa dla starszych wersji bez przycisku pobierania";
+
+"Stories" = "Relacje";
+"DownloadStories" = "Pobierz relacje";
+"AnonymousStories" = "Oglądaj anonimowo";
+"DisableAutoNext" = "Wyłącz automatyczne przechodzenie";
+"RemoveStoryPYMK" = "Usuń „Ludzie, których możesz znać”";
+
+"Cache" = "Pamięć podręczna";
+"AutoClearCache" = "Wyczyść pamięć przy starcie";
+"ClearCache" = "Wyczyść pamięć podręczną";
+
+"Developer" = "Deweloperzy";
+
+"DiscordDesc" = "Dołącz po wsparcie, opinię lub pogawędkę";
+"GithubDesc" = "Repozytorium Glow";
+"DvntmsDesc" = "Wszystkie moje repozytoria w jednym miejscu";
+
+"FollowMe" = "Obserwuj %@ na Twitterze";
+"DonateMe" = "Glow jest całkowicie darmowy. Możesz wesprzeć jego rozwój, kupując mi kawę";
+"StoreDesc" = "Uzyskaj certyfikat dewelopera i ciesz się szerokim wyborem wyjątkowych aplikacji";
+
+"DeveloperFooter" = "Zakodowane z ❤️";
+
+"DownloadVideo" = "Pobierz wideo";
+"DownloadStory" = "Pobierz historię";
+"Downloading" = "Pobieranie";
+"Cancel" = "Anuluj";
+"SavedToPhotos" = "Zapisano w Zdjęciach";
+"ImageNotFound" = "Nie znaleziono obrazu";
+"MarkAsSeen" = "Oznacz jako obejrzane";
+"MarkedAsSeen" = "Oznaczono jako obejrzane";
+"SomethingWentWrong" = "Coś poszło nie tak";
+"GlowSettings" = "Ustawienia Glow";
+
+"Welcome.Download" = "Pobieraj media";
+"Welcome.DownloadDesc" = "Pobieraj co tylko chcesz – filmy, obrazy, Reels oraz historie.";
+"Welcome.Incognito" = "Tryb incognito";
+"Welcome.IncognitoDesc" = "Pozostań niezauważony. Oglądaj historie i oznaczaj je jako obejrzane tylko wtedy, kiedy tego chcesz.";
+"Welcome.Confirmation" = "Potwierdzenie";
+"Welcome.ConfirmationDesc" = "Obawiasz się przypadkowych polubień? Teraz możesz się zrelaksować.";
+"Welcome.Settings" = "Prostota";
+"Welcome.SettingsDesc" = "Elastyczne i intuicyjne ustawienia dostosowane do Twoich potrzeb.";
+"Welcome.More" = "I więcej";
+"Welcome.MoreDesc" = "Glow to nie tylko lista funkcji. Odkryj jeszcze więcej narzędzi dla wygody i prywatności.";
+"Welcome.SettingsInfo" = "Ustawienia Glow dostępne są po długim naciśnięciu dowolnej zakładki";
+"Continue" = "Kontynuuj";
