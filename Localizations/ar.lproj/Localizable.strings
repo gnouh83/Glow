@@ -19,6 +19,10 @@
 "DisableAutoNext" = "تعطيل التقدم التلقائي";
 "RemoveStoryPYMK" = "ازالة اشخاص قد تعرفهم";
 
+"Downloader" = "Video Downloader";
+"AllFormats" = "Include all formats";
+"AllFormatsDesc" = "Adds all available formats to the download menu.\nNote: Most formats require re-encoding, which may affect download speed.";
+
 "Cache" = "الملفات المؤقته";
 "AutoClearCache" = "تنظيف الملفات المؤقته عند بدء التطبيق";
 "ClearCache" = "تنظيف الملفات المؤقته";
@@ -38,6 +42,13 @@
 "DownloadVideo" = "حفظ الفيديو";
 "DownloadStory" = "حفظ القصة";
 "Downloading" = "جارٍ الحفظ";
+"DownloadingVideo" = "Downloading video";
+"DownloadingAudio" = "Downloading audio";
+"Slow" = "Requires re-encoding";
+"Fast" = "Ultra fast";
+"MergingMedia" = "Merging media";
+"WaitsForConversion" = "Queued for conversion";
+"Error.Clipboard" = "Error. Check clipboard for log";
 "Cancel" = "الغاء";
 "SavedToPhotos" = "تم الحفظ في البوم الصور";
 "ImageNotFound" = "لم يتم العثور على الصورة";
@@ -45,6 +56,7 @@
 "MarkedAsSeen" = "تمت مشاهدة القصة";
 "SomethingWentWrong" = "حدث خطأ";
 "GlowSettings" = "اعدادات Glow";
+"FacebookSettings" = "اعدادات Facebook";
 
 "Welcome.Download" = "حفظ الفيديوهات";
 "Welcome.DownloadDesc" = "احفظ كل ماتريد من فيديوهات، صور.، ريلز ، وحتى القصص";

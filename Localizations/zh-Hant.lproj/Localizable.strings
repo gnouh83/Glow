@@ -19,6 +19,10 @@
 "DisableAutoNext" = "停用自動播放下一則";
 "RemoveStoryPYMK" = "移除 \"你可能認識的朋友\"";
 
+"Downloader" = "Video Downloader";
+"AllFormats" = "Include all formats";
+"AllFormatsDesc" = "Adds all available formats to the download menu.\nNote: Most formats require re-encoding, which may affect download speed.";
+
 "Cache" = "快取";
 "AutoClearCache" = "啟動時清除快取";
 "ClearCache" = "清除快取";
@@ -38,6 +42,13 @@
 "DownloadVideo" = "下載影片";
 "DownloadStory" = "下載限時動態";
 "Downloading" = "正在下載";
+"DownloadingVideo" = "Downloading video";
+"DownloadingAudio" = "Downloading audio";
+"Slow" = "Requires re-encoding";
+"Fast" = "Ultra fast";
+"MergingMedia" = "Merging media";
+"WaitsForConversion" = "Queued for conversion";
+"Error.Clipboard" = "Error. Check clipboard for log";
 "Cancel" = "取消";
 "SavedToPhotos" = "已儲存至照片App";
 "ImageNotFound" = "找不到圖片";
@@ -45,6 +56,7 @@
 "MarkedAsSeen" = "已標記為已觀看";
 "SomethingWentWrong" = "發生了一些問題";
 "GlowSettings" = "Glow 設定";
+"FacebookSettings" = "Facebook 設定";
 
 "Welcome.Download" = "下載媒體";
 "Welcome.DownloadDesc" = "隨心下載 — 影片、圖片、連續短片，甚至是限時動態";

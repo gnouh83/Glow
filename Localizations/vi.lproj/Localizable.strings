@@ -19,6 +19,10 @@
 "DisableAutoNext" = "Tắt tự động chuyển tiếp";
 "RemoveStoryPYMK" = "Xóa \"Những người có thể bạn quen biết\" trong story";
 
+"Downloader" = "Video Downloader";
+"AllFormats" = "Include all formats";
+"AllFormatsDesc" = "Adds all available formats to the download menu.\nNote: Most formats require re-encoding, which may affect download speed.";
+
 "Cache" = "Bộ nhớ đệm";
 "AutoClearCache" = "Xóa bộ nhớ đệm khi khởi động";
 "ClearCache" = "Xóa bộ nhớ đệm";
@@ -38,6 +42,13 @@
 "DownloadVideo" = "Tải video";
 "DownloadStory" = "Tải story";
 "Downloading" = "Đang tải về";
+"DownloadingVideo" = "Downloading video";
+"DownloadingAudio" = "Downloading audio";
+"Slow" = "Requires re-encoding";
+"Fast" = "Ultra fast";
+"MergingMedia" = "Merging media";
+"WaitsForConversion" = "Queued for conversion";
+"Error.Clipboard" = "Error. Check clipboard for log";
 "Cancel" = "Hủy";
 "SavedToPhotos" = "Đã lưu vào Ảnh";
 "ImageNotFound" = "Không tìm thấy hình ảnh";
@@ -45,6 +56,7 @@
 "MarkedAsSeen" = "Đã đánh dấu đã xem";
 "SomethingWentWrong" = "Đã xảy ra lỗi";
 "GlowSettings" = "Cài đặt Glow";
+"FacebookSettings" = "Cài đặt Facebook";
 
 "Welcome.Download" = "Tải phương tiện";
 "Welcome.DownloadDesc" = "Tải bất cứ gì bạn thích — video, hình ảnh, reels, thậm chí cả story.";

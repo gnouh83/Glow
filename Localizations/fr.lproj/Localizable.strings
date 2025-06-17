@@ -1,6 +1,6 @@
 "Main" = "Principal";
 "RemoveAds" = "Supprimer les publicités";
-"RemovePYMK" = "Remove \"Les gens que vous connaissez peut-être\"";
+"RemovePYMK" = "Masquer les suggestions d’amis";
 "RemoveReelsCarousel" = "Retirer le carrousel de bobines";
 "PostLikeConfirm" = "Confirmer le post comme";
 "DownloadVideos" = "Télécharger des vidéos";
@@ -17,7 +17,11 @@
 "DownloadStories" = "Télécharger des stories";
 "AnonymousStories" = "Regarder anonymement";
 "DisableAutoNext" = "Désactiver l'avance automatique";
-"RemoveStoryPYMK" = "Supprimer \"Les gens que vous connaissez peut-être\"";
+"RemoveStoryPYMK" = "Masquer les suggestions dans les stories";
+
+"Downloader" = "Video Downloader";
+"AllFormats" = "Include all formats";
+"AllFormatsDesc" = "Adds all available formats to the download menu.\nNote: Most formats require re-encoding, which may affect download speed.";
 
 "Cache" = "Cache";
 "AutoClearCache" = "Vider le cache au démarrage";
@@ -38,6 +42,13 @@
 "DownloadVideo" = "Télécharger la vidéo";
 "DownloadStory" = "Télécharger la storie";
 "Downloading" = "Téléchargement";
+"DownloadingVideo" = "Downloading video";
+"DownloadingAudio" = "Downloading audio";
+"Slow" = "Requires re-encoding";
+"Fast" = "Ultra fast";
+"MergingMedia" = "Merging media";
+"WaitsForConversion" = "Queued for conversion";
+"Error.Clipboard" = "Error. Check clipboard for log";
 "Cancel" = "Annuler";
 "SavedToPhotos" = "Enregistré dans les photos";
 "ImageNotFound" = "Image introuvable";
@@ -45,6 +56,7 @@
 "MarkedAsSeen" = "Marqué comme vu";
 "SomethingWentWrong" = "Quelque chose s'est mal passé";
 "GlowSettings" = "Paramètres de Glow";
+"FacebookSettings" = "Paramètres de Facebook";
 
 "Welcome.Download" = "Télécharger des médias";
 "Welcome.DownloadDesc" = "Téléchargez ce que vous voulez : vidéos, images, Reels et même des stories.";

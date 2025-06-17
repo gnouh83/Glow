@@ -19,6 +19,10 @@
 "DisableAutoNext" = "Wyłącz automatyczne przechodzenie";
 "RemoveStoryPYMK" = "Usuń „Ludzie, których możesz znać”";
 
+"Downloader" = "Video Downloader";
+"AllFormats" = "Include all formats";
+"AllFormatsDesc" = "Adds all available formats to the download menu.\nNote: Most formats require re-encoding, which may affect download speed.";
+
 "Cache" = "Pamięć podręczna";
 "AutoClearCache" = "Wyczyść pamięć przy starcie";
 "ClearCache" = "Wyczyść pamięć podręczną";
@@ -38,6 +42,13 @@
 "DownloadVideo" = "Pobierz wideo";
 "DownloadStory" = "Pobierz historię";
 "Downloading" = "Pobieranie";
+"DownloadingVideo" = "Downloading video";
+"DownloadingAudio" = "Downloading audio";
+"Slow" = "Requires re-encoding";
+"Fast" = "Ultra fast";
+"MergingMedia" = "Merging media";
+"WaitsForConversion" = "Queued for conversion";
+"Error.Clipboard" = "Error. Check clipboard for log";
 "Cancel" = "Anuluj";
 "SavedToPhotos" = "Zapisano w Zdjęciach";
 "ImageNotFound" = "Nie znaleziono obrazu";
@@ -45,6 +56,7 @@
 "MarkedAsSeen" = "Oznaczono jako obejrzane";
 "SomethingWentWrong" = "Coś poszło nie tak";
 "GlowSettings" = "Ustawienia Glow";
+"FacebookSettings" = "Ustawienia Facebook";
 
 "Welcome.Download" = "Pobieraj media";
 "Welcome.DownloadDesc" = "Pobieraj co tylko chcesz – filmy, obrazy, Reels oraz historie.";
