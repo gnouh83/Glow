@@ -19,9 +19,9 @@
 "DisableAutoNext" = "Tắt tự động chuyển tiếp";
 "RemoveStoryPYMK" = "Xóa \"Những người có thể bạn quen biết\" trong story";
 
-"Downloader" = "Video Downloader";
-"AllFormats" = "Include all formats";
-"AllFormatsDesc" = "Adds all available formats to the download menu.\nNote: Most formats require re-encoding, which may affect download speed.";
+"Downloader" = "Trình tải video";
+"AllFormats" = "Bao gồm tất cả các định dạng";
+"AllFormatsDesc" = "Thêm tất cả các định dạng khả dụng vào menu tải xuống.\nLưu ý: Hầu hết các định dạng tải xuống yêu cầu mã hoá lại, có thể ảnh hưởng tới tốc độ tải xuống.";
 
 "Cache" = "Bộ nhớ đệm";
 "AutoClearCache" = "Xóa bộ nhớ đệm khi khởi động";
@@ -37,18 +37,18 @@
 "DonateMe" = "Glow hoàn toàn miễn phí. Nếu thích, bạn có thể mời tôi một ly cà phê để ủng hộ phát triển ứng dụng";
 "StoreDesc" = "Nhận chứng chỉ nhà phát triển và tận hưởng nhiều ứng dụng độc quyền";
 
-"DeveloperFooter" = "Được lập trình bằng ❤️";
+"DeveloperFooter" = "Được lập trình bằng cả ❤️";
 
 "DownloadVideo" = "Tải video";
 "DownloadStory" = "Tải story";
 "Downloading" = "Đang tải về";
-"DownloadingVideo" = "Downloading video";
-"DownloadingAudio" = "Downloading audio";
-"Slow" = "Requires re-encoding";
-"Fast" = "Ultra fast";
-"MergingMedia" = "Merging media";
-"WaitsForConversion" = "Queued for conversion";
-"Error.Clipboard" = "Error. Check clipboard for log";
+"DownloadingVideo" = "Đang tải video";
+"DownloadingAudio" = "Đang tải audio";
+"Slow" = "Cần mã hoá lại";
+"Fast" = "Siêu nhanh";
+"MergingMedia" = "Đang hợp nhất phương tiện";
+"WaitsForConversion" = "Đang xếp hàng để chuyển đổi";
+"Error.Clipboard" = "Lỗi. Kiểm tra clipbroad để xem nhật kí";
 "Cancel" = "Hủy";
 "SavedToPhotos" = "Đã lưu vào Ảnh";
 "ImageNotFound" = "Không tìm thấy hình ảnh";
