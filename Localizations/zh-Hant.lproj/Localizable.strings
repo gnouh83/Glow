@@ -19,9 +19,9 @@
 "DisableAutoNext" = "停用自動播放下一則";
 "RemoveStoryPYMK" = "移除 \"你可能認識的朋友\"";
 
-"Downloader" = "Video Downloader";
-"AllFormats" = "Include all formats";
-"AllFormatsDesc" = "Adds all available formats to the download menu.\nNote: Most formats require re-encoding, which may affect download speed.";
+"Downloader" = "影片下載器";
+"AllFormats" = "包含所有格式";
+"AllFormatsDesc" = "將所有可用格式加入下載選單。\n注意：大多數格式需要重新編碼，可能會影響下載速度。";
 
 "Cache" = "快取";
 "AutoClearCache" = "啟動時清除快取";
@@ -42,13 +42,13 @@
 "DownloadVideo" = "下載影片";
 "DownloadStory" = "下載限時動態";
 "Downloading" = "正在下載";
-"DownloadingVideo" = "Downloading video";
-"DownloadingAudio" = "Downloading audio";
-"Slow" = "Requires re-encoding";
-"Fast" = "Ultra fast";
-"MergingMedia" = "Merging media";
-"WaitsForConversion" = "Queued for conversion";
-"Error.Clipboard" = "Error. Check clipboard for log";
+"DownloadingVideo" = "正在下載影片";
+"DownloadingAudio" = "正在下載音訊";
+"Slow" = "需要重新編碼（較慢）";
+"Fast" = "原始影片（較快）";
+"MergingMedia" = "正在合併媒體";
+"WaitsForConversion" = "等待轉換中";
+"Error.Clipboard" = "錯誤。請檢查剪貼簿日誌";
 "Cancel" = "取消";
 "SavedToPhotos" = "已儲存至照片App";
 "ImageNotFound" = "找不到圖片";
