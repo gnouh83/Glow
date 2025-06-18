@@ -78,6 +78,18 @@
         {
             "views": [
                 {
+                    "text": "June 18, 2025",
+                    "class": "DepictionTableTextView",
+                    "title": "Version 1.2"
+                },
+                {
+                    "markdown": "- Improved video conversion\n -Added encoding speed selection in settings\n -Added HDR support for downloaded videos\n -Fixed description for pre-encoded videos",
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
                     "text": "June 17, 2025",
                     "class": "DepictionTableTextView",
                     "title": "Version 1.1"

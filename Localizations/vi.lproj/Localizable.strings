@@ -1,6 +1,6 @@
 "Main" = "Trang chủ";
 "RemoveAds" = "Xóa quảng cáo";
-"RemovePYMK" = "Xóa \"Những người có thể bạn quen biết\"";
+"RemovePYMK" = "Xóa gợi ý kết bạn";
 "RemoveReelsCarousel" = "Xóa thanh cuộn reels";
 "PostLikeConfirm" = "Xác nhận thích bài viết";
 "DownloadVideos" = "Tải video";
@@ -17,11 +17,12 @@
 "DownloadStories" = "Tải stories";
 "AnonymousStories" = "Xem ẩn danh";
 "DisableAutoNext" = "Tắt tự động chuyển tiếp";
-"RemoveStoryPYMK" = "Xóa \"Những người có thể bạn quen biết\" trong story";
+"RemoveStoryPYMK" = "Xóa gợi ý kết bạn trong story";
 
 "Downloader" = "Trình tải video";
 "AllFormats" = "Bao gồm tất cả các định dạng";
-"AllFormatsDesc" = "Thêm tất cả các định dạng khả dụng vào menu tải xuống.\nLưu ý: Hầu hết các định dạng tải xuống yêu cầu mã hoá lại, có thể ảnh hưởng tới tốc độ tải xuống.";
+"EncodingSpeed" = "Encoding speed";
+"EncodingSpeedDesc" = "Video encoding speed:\n• Ultrafast: Fastest processing, larger file size.\n• Faster: Good speed and file size balance.\n• Medium: Slower processing, smaller file size.";
 
 "Cache" = "Bộ nhớ đệm";
 "AutoClearCache" = "Xóa bộ nhớ đệm khi khởi động";

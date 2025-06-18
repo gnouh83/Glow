@@ -21,7 +21,8 @@
 
 "Downloader" = "Video Downloader";
 "AllFormats" = "Include all formats";
-"AllFormatsDesc" = "Adds all available formats to the download menu.\nNote: Most formats require re-encoding, which may affect download speed.";
+"EncodingSpeed" = "Encoding speed";
+"EncodingSpeedDesc" = "Video encoding speed:\n• Ultrafast: Fastest processing, larger file size.\n• Faster: Good speed and file size balance.\n• Medium: Slower processing, smaller file size.";
 
 "Cache" = "Cache";
 "AutoClearCache" = "Clear cache on startup";

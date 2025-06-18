@@ -21,7 +21,8 @@
 
 "Downloader" = "影片下載器";
 "AllFormats" = "包含所有格式";
-"AllFormatsDesc" = "將所有可用格式加入下載選單。\n注意：大多數格式需要重新編碼，可能會影響下載速度。";
+"EncodingSpeed" = "Encoding speed";
+"EncodingSpeedDesc" = "Video encoding speed:\n• Ultrafast: Fastest processing, larger file size.\n• Faster: Good speed and file size balance.\n• Medium: Slower processing, smaller file size.";
 
 "Cache" = "快取";
 "AutoClearCache" = "啟動時清除快取";
