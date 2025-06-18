@@ -4,7 +4,7 @@
 "RemoveReelsCarousel" = "Eliminar carrusel de reels";
 "PostLikeConfirm" = "Confirmar like en post";
 "DownloadVideos" = "Descargar vídeos";
-"DownloadVideosDesc" = "Descargar vídeos de feed y stories con una pulsación larga";
+"DownloadVideosDesc" = "Descarga vídeos de feed y stories con una pulsación larga";
 
 "Reels" = "Reels";
 "DownloadReels" = "Descargar reels";
@@ -19,9 +19,9 @@
 "DisableAutoNext" = "Deshabilitar auto avance";
 "RemoveStoryPYMK" = "Eliminar \"Personas que quizá conozcas\"";
 
-"Downloader" = "Video Downloader";
-"AllFormats" = "Include all formats";
-"AllFormatsDesc" = "Adds all available formats to the download menu.\nNote: Most formats require re-encoding, which may affect download speed.";
+"Downloader" = "Descargador de vídeo";
+"AllFormats" = "Incluir todos los formatos";
+"AllFormatsDesc" = "Añade todos los formatos disponibles al menú de descargas.\nNota: La mayoría de los formatos necesitan una re-codificación, lo que puede afectar a la velocidad de la descarga.";
 
 "Cache" = "Caché";
 "AutoClearCache" = "Borrar caché al iniciar";
@@ -42,13 +42,13 @@
 "DownloadVideo" = "Descargar vídeo";
 "DownloadStory" = "Descargar story";
 "Downloading" = "Descargando";
-"DownloadingVideo" = "Downloading video";
-"DownloadingAudio" = "Downloading audio";
-"Slow" = "Requires re-encoding";
-"Fast" = "Ultra fast";
-"MergingMedia" = "Merging media";
-"WaitsForConversion" = "Queued for conversion";
-"Error.Clipboard" = "Error. Check clipboard for log";
+"DownloadingVideo" = "Descargando vídeo";
+"DownloadingAudio" = "Descargando audio";
+"Slow" = "Necesita re-codificación";
+"Fast" = "Ultra rápido";
+"MergingMedia" = "Fusión de medios";
+"WaitsForConversion" = "En cola para la conversión";
+"Error.Clipboard" = "Error. Comprobar el portapapeles para ver el registro";
 "Cancel" = "Cancelar";
 "SavedToPhotos" = "Guardado en Fotos";
 "ImageNotFound" = "Imagen no encontrada";
