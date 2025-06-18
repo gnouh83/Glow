@@ -1,28 +1,28 @@
 "Main" = "Główna";
 "RemoveAds" = "Usuń reklamy";
-"RemovePYMK" = "Usuń „Ludzie, których możesz znać”";
+"RemovePYMK" = "Usuń \"Ludzie, których możesz znać\"";
 "RemoveReelsCarousel" = "Usuń karuzelę reelsów";
 "PostLikeConfirm" = "Potwierdź polubienie posta";
 "DownloadVideos" = "Pobieraj filmy";
-"DownloadVideosDesc" = "Pobieraj filmy z feedu i relacji przez długie naciśnięcie";
+"DownloadVideosDesc" = "Pobieraj filmy z postów i relacji przez długie naciśnięcie";
 
-"Reels" = "Reelsy";
-"DownloadReels" = "Pobierz reelsy";
+"Reels" = "Posty";
+"DownloadReels" = "Pobierz posty";
 "HideOverlay" = "Ukryj nakładkę";
-"ReelsLikeConfirm" = "Potwierdź polubienie reelsa";
+"ReelsLikeConfirm" = "Potwierdź polubienie posta";
 "ReelsLongTap" = "Pobierz przez długie naciśnięcie";
 "ReelsLongTapDesc" = "Alternatywa dla starszych wersji bez przycisku pobierania";
 
 "Stories" = "Relacje";
 "DownloadStories" = "Pobierz relacje";
 "AnonymousStories" = "Oglądaj anonimowo";
-"DisableAutoNext" = "Wyłącz automatyczne przechodzenie";
-"RemoveStoryPYMK" = "Usuń „Ludzie, których możesz znać”";
+"DisableAutoNext" = "Wyłącz automatyczne przechodzenie dalej";
+"RemoveStoryPYMK" = "Usuń \"Ludzie, których możesz znać\"";
 
-"Downloader" = "Video Downloader";
-"AllFormats" = "Include all formats";
-"EncodingSpeed" = "Encoding speed";
-"EncodingSpeedDesc" = "Video encoding speed:\n• Ultrafast: Fastest processing, larger file size.\n• Faster: Good speed and file size balance.\n• Medium: Slower processing, smaller file size.";
+"Downloader" = "Pobieranie filmów";
+"AllFormats" = "Dołącz wszystkie formaty";
+"EncodingSpeed" = "Prędkość przetwarzania";
+"EncodingSpeedDesc" = "Prędkość przetwarzania filmu\n• Ultrafast: Najszybsze przetwarzanie, duży rozmiar pliku.\n• Faster: Dobra prędkość i średni rozmiar pliku.\n• Medium: Wolne przetwarzanie, mały rozmiar pliku.";
 
 "Cache" = "Pamięć podręczna";
 "AutoClearCache" = "Wyczyść pamięć przy starcie";
@@ -30,7 +30,7 @@
 
 "Developer" = "Deweloperzy";
 
-"DiscordDesc" = "Dołącz po wsparcie, opinię lub pogawędkę";
+"DiscordDesc" = "Dołącz po wsparcie, opinię lub rozmowę";
 "GithubDesc" = "Repozytorium Glow";
 "DvntmsDesc" = "Wszystkie moje repozytoria w jednym miejscu";
 
@@ -43,13 +43,13 @@
 "DownloadVideo" = "Pobierz wideo";
 "DownloadStory" = "Pobierz historię";
 "Downloading" = "Pobieranie";
-"DownloadingVideo" = "Downloading video";
-"DownloadingAudio" = "Downloading audio";
-"Slow" = "Requires re-encoding";
-"Fast" = "Ultra fast";
-"MergingMedia" = "Merging media";
-"WaitsForConversion" = "Queued for conversion";
-"Error.Clipboard" = "Error. Check clipboard for log";
+"DownloadingVideo" = "Pobieranie wideo";
+"DownloadingAudio" = "Pobieranie audio";
+"Slow" = "Wymaga ponownego przetwarzania";
+"Fast" = "Bardzo szybkie";
+"MergingMedia" = "Łączenie plikóe";
+"WaitsForConversion" = "Zakolejkowano do konwersji";
+"Error.Clipboard" = "Error. Sprawdź logi w schowku";
 "Cancel" = "Anuluj";
 "SavedToPhotos" = "Zapisano w Zdjęciach";
 "ImageNotFound" = "Nie znaleziono obrazu";
@@ -60,12 +60,12 @@
 "FacebookSettings" = "Ustawienia Facebook";
 
 "Welcome.Download" = "Pobieraj media";
-"Welcome.DownloadDesc" = "Pobieraj co tylko chcesz – filmy, obrazy, Reels oraz historie.";
+"Welcome.DownloadDesc" = "Pobieraj co tylko chcesz – filmy, obrazy, posty oraz relacje.";
 "Welcome.Incognito" = "Tryb incognito";
 "Welcome.IncognitoDesc" = "Pozostań niezauważony. Oglądaj historie i oznaczaj je jako obejrzane tylko wtedy, kiedy tego chcesz.";
 "Welcome.Confirmation" = "Potwierdzenie";
 "Welcome.ConfirmationDesc" = "Obawiasz się przypadkowych polubień? Teraz możesz się zrelaksować.";
-"Welcome.Settings" = "Prostota";
+"Welcome.Settings" = "Ustawienia";
 "Welcome.SettingsDesc" = "Elastyczne i intuicyjne ustawienia dostosowane do Twoich potrzeb.";
 "Welcome.More" = "I więcej";
 "Welcome.MoreDesc" = "Glow to nie tylko lista funkcji. Odkryj jeszcze więcej narzędzi dla wygody i prywatności.";
