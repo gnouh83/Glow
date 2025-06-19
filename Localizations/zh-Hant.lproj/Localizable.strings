@@ -22,7 +22,7 @@
 "Downloader" = "影片下載器";
 "AllFormats" = "包含所有格式";
 "EncodingSpeed" = "影片編碼速度";
-"EncodingSpeedDesc" = "編碼速度說明：\n• 極速模式：處理最快，檔案較大。\n• 均衡模式：速度與檔案大小最佳平衡。\n• 標準模式：處理較慢，檔案較小。";
+"EncodingSpeedDesc" = "編碼速度說明：\n• 極速模式(Ultrafast)：處理最快，檔案較大。\n• 均衡模式(Faster)：速度與檔案大小最佳平衡。\n• 標準模式(Medium)：處理較慢，檔案較小。";
 
 "Cache" = "快取";
 "AutoClearCache" = "啟動時清除快取";
