@@ -5,8 +5,8 @@
 "PostLikeConfirm" = "對貼文按讚，會再次確認";
 "DownloadVideos" = "下載影片";
 "DownloadVideosDesc" = "長按即可從動態消息和限時動態下載影片";
-"RemoveRecs" = "Remove recommendations";
-"RemoveRecsDesc" = "Removes recommended posts\nNOTE: Needs enough follows to work properly";
+"RemoveRecs" = "移除推薦內容";
+"RemoveRecsDesc" = "移除推薦貼文\n注意：需追蹤足夠數量的帳戶才能確保功能正常";
 
 "Reels" = "Reels 影片";
 "DownloadReels" = "下載影片";
@@ -26,8 +26,8 @@
 "EncodingSpeed" = "影片編碼速度";
 "EncodingSpeedDesc" = "編碼速度說明：\n• 極速模式(Ultrafast)：處理最快，檔案較大。\n• 均衡模式(Faster)：速度與檔案大小最佳平衡。\n• 標準模式(Medium)：處理較慢，檔案較小。";
 
-"Other" = "Other";
-"NotifyUpdates" = "Notify about updates";
+"Other" = "其他";
+"NotifyUpdates" = "更新通知";
 "AutoClearCache" = "啟動時清除快取";
 "ClearCache" = "清除快取";
 
@@ -62,11 +62,11 @@
 "GlowSettings" = "Glow 設定";
 "FacebookSettings" = "Facebook 設定";
 
-"NewUpdate" = "Update available: v%@";
-"Update.Tweak" = "Download tweak";
-"Update.IPA" = "Download IPA";
-"Update.Repo" = "Repositories";
-"Update.Dismiss" = "Dismiss";
+"NewUpdate" = "新版本可用: v%@";
+"Update.Tweak" = "下載插件";
+"Update.IPA" = "下載 IPA";
+"Update.Repo" = "插件儲存庫";
+"Update.Dismiss" = "忽略";
 
 "Welcome.Download" = "下載媒體";
 "Welcome.DownloadDesc" = "隨心下載 — 影片、圖片、連續短片，甚至是限時動態";
