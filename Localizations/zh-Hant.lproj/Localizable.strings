@@ -45,8 +45,8 @@
 "Downloading" = "正在下載";
 "DownloadingVideo" = "正在下載影片";
 "DownloadingAudio" = "正在下載音訊";
-"Slow" = "需要重新編碼（較慢）";
-"Fast" = "原始影片（較快）";
+"Slow" = "需要重新編碼";
+"Fast" = "原始影片";
 "MergingMedia" = "正在合併媒體";
 "WaitsForConversion" = "等待轉換中";
 "Error.Clipboard" = "錯誤。請檢查剪貼簿日誌";
