@@ -1,6 +1,6 @@
 "Main" = "主页";
 "RemoveAds" = "移除广告";
-"RemovePYMK" = "移除\“可能认识的人\”";
+"RemovePYMK" = "移除\"可能认识的人\"";
 "RemoveReelsCarousel" = "移除短视频轮播";
 "PostLikeConfirm" = "点赞确认";
 "DownloadVideos" = "下载视频";
@@ -17,7 +17,7 @@
 "DownloadStories" = "下载故事";
 "AnonymousStories" = "匿名观看";
 "DisableAutoNext" = "禁用自动切换";
-"RemoveStoryPYMK" = "移除\“可能认识的人\”";
+"RemoveStoryPYMK" = "移除\"可能认识的人\"";
 
 "Downloader" = "视频下载器";
 "AllFormats" = "包含所有格式";
