@@ -5,8 +5,8 @@
 "PostLikeConfirm" = "Confirmar like en post";
 "DownloadVideos" = "Descargar vídeos";
 "DownloadVideosDesc" = "Descarga vídeos de feed y stories con una pulsación larga";
-"RemoveRecs" = "Remove recommendations";
-"RemoveRecsDesc" = "Removes recommended posts\nNOTE: Needs enough follows to work properly";
+"RemoveRecs" = "Eliminar recomendaciones";
+"RemoveRecsDesc" = "Elimina publicaciones recomendadas\nNOTA: Necesita suficiente seguimiento para funcionar correctamente";
 
 "Reels" = "Reels";
 "DownloadReels" = "Descargar reels";
@@ -23,11 +23,11 @@
 
 "Downloader" = "Descargador de vídeo";
 "AllFormats" = "Incluir todos los formatos";
-"EncodingSpeed" = "Encoding speed";
-"EncodingSpeedDesc" = "Video encoding speed:\n• Ultrafast: Fastest processing, larger file size.\n• Faster: Good speed and file size balance.\n• Medium: Slower processing, smaller file size.";
+"EncodingSpeed" = "Velocidad de codificación";
+"EncodingSpeedDesc" = "Velocidad de codificación de vídeo:\n• Ultrafast: El procesado más rápido, mayor tamaño de archivo.\n• Faster: Buen balance de velocidad y tamaño de archivo.\n• Medium: Procesado más lento, menor tamaño de archivo.";
 
-"Other" = "Other";
-"NotifyUpdates" = "Notify about updates";
+"Other" = "Otro";
+"NotifyUpdates" = "Notificar actualizaciones";
 "AutoClearCache" = "Borrar caché al iniciar";
 "ClearCache" = "Borrar caché";
 
@@ -62,11 +62,11 @@
 "GlowSettings" = "Ajustes de Glow";
 "FacebookSettings" = "Ajustes de Facebook";
 
-"NewUpdate" = "Update available: v%@";
-"Update.Tweak" = "Download tweak";
-"Update.IPA" = "Download IPA";
-"Update.Repo" = "Repositories";
-"Update.Dismiss" = "Dismiss";
+"NewUpdate" = "Actualización disponible: v%@";
+"Update.Tweak" = "Descargar tweak";
+"Update.IPA" = "Descargar IPA";
+"Update.Repo" = "Repositorios";
+"Update.Dismiss" = "Descartar";
 
 "Welcome.Download" = "Descargar Media";
 "Welcome.DownloadDesc" = "Descarga todo lo que quieras — vídeos, imágenes, Reels, e incluso stories.";
