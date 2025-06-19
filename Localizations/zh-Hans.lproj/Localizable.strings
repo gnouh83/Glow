@@ -5,6 +5,8 @@
 "PostLikeConfirm" = "点赞确认";
 "DownloadVideos" = "下载视频";
 "DownloadVideosDesc" = "长按从动态和故事中下载视频";
+"RemoveRecs" = "Remove recommendations";
+"RemoveRecsDesc" = "Removes recommended posts\nNOTE: Needs enough follows to work properly";
 
 "Reels" = "短视频";
 "DownloadReels" = "显示下载按钮";
@@ -22,9 +24,10 @@
 "Downloader" = "视频下载器";
 "AllFormats" = "包含所有格式";
 "EncodingSpeed" = "编码速度";
-"EncodingSpeedDesc" = "视频编码速度：\n• 极速：处理速度最快，文件体积较大。\n• 更快：速度与文件大小平衡良好。\n• 中等：处理较慢，文件体积较小。";
+"EncodingSpeedDesc" = "视频编码速度\n• 极速(Ultrafast)：处理速度最快，文件体积较大。\n• 更快(Faster)：速度与文件大小平衡良好。\n• 中等(Medium)：处理较慢，文件体积较小。";
 
-"Cache" = "缓存";
+"Other" = "Other";
+"NotifyUpdates" = "Notify about updates";
 "AutoClearCache" = "启动时清除缓存";
 "ClearCache" = "清除缓存";
 
@@ -58,6 +61,12 @@
 "SomethingWentWrong" = "出现问题";
 "GlowSettings" = "Glow 设置";
 "FacebookSettings" = "Facebook 设置";
+
+"NewUpdate" = "Update available: v%@";
+"Update.Tweak" = "Download tweak";
+"Update.IPA" = "Download IPA";
+"Update.Repo" = "Repositories";
+"Update.Dismiss" = "Dismiss";
 
 "Welcome.Download" = "下载媒体";
 "Welcome.DownloadDesc" = "想下载什么都可以 — 视频、图片、Reels，甚至是故事。";

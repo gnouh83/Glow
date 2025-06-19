@@ -78,6 +78,18 @@
         {
             "views": [
                 {
+                    "text": "June 19, 2025",
+                    "class": "DepictionTableTextView",
+                    "title": "Version 1.3"
+                },
+                {
+                    "markdown": "- Added an option to hide recommendations from the feed (Make sure to read the option description before enabling it)\n- Added the ability to download videos in comments via long press\n- Added an option to notify about updates\n- Fixed icon glitches on certain devices\n- Added GitHub Actions to the repository for building Glow for Facebook yourself (Instructions are provided in the repository's README)",
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
                     "text": "June 18, 2025",
                     "class": "DepictionTableTextView",
                     "title": "Version 1.2"

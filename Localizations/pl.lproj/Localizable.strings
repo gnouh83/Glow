@@ -5,6 +5,8 @@
 "PostLikeConfirm" = "Potwierdź polubienie posta";
 "DownloadVideos" = "Pobieraj filmy";
 "DownloadVideosDesc" = "Pobieraj filmy z postów i relacji przez długie naciśnięcie";
+"RemoveRecs" = "Remove recommendations";
+"RemoveRecsDesc" = "Removes recommended posts\nNOTE: Needs enough follows to work properly";
 
 "Reels" = "Posty";
 "DownloadReels" = "Pobierz posty";
@@ -24,7 +26,8 @@
 "EncodingSpeed" = "Prędkość przetwarzania";
 "EncodingSpeedDesc" = "Prędkość przetwarzania filmu\n• Ultrafast: Najszybsze przetwarzanie, duży rozmiar pliku.\n• Faster: Dobra prędkość i średni rozmiar pliku.\n• Medium: Wolne przetwarzanie, mały rozmiar pliku.";
 
-"Cache" = "Pamięć podręczna";
+"Other" = "Other";
+"NotifyUpdates" = "Notify about updates";
 "AutoClearCache" = "Wyczyść pamięć przy starcie";
 "ClearCache" = "Wyczyść pamięć podręczną";
 
@@ -58,6 +61,12 @@
 "SomethingWentWrong" = "Coś poszło nie tak";
 "GlowSettings" = "Ustawienia Glow";
 "FacebookSettings" = "Ustawienia Facebook";
+
+"NewUpdate" = "Update available: v%@";
+"Update.Tweak" = "Download tweak";
+"Update.IPA" = "Download IPA";
+"Update.Repo" = "Repositories";
+"Update.Dismiss" = "Dismiss";
 
 "Welcome.Download" = "Pobieraj media";
 "Welcome.DownloadDesc" = "Pobieraj co tylko chcesz – filmy, obrazy, posty oraz relacje.";

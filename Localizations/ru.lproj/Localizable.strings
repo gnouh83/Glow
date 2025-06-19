@@ -5,6 +5,8 @@
 "PostLikeConfirm" = "Подтверждать лайк постов";
 "DownloadVideos" = "Загрузка видео";
 "DownloadVideosDesc" = "Позволяет скачивать видео в ленте и в историях долгим нажатием";
+"RemoveRecs" = "Убрать рекомендации";
+"RemoveRecsDesc" = "Убирает рекомендуемые посты\nВАЖНО: Для корректной работы нужно приличное количество подписок";
 
 "Reels" = "Reels";
 "DownloadReels" = "Загрузка Reels";
@@ -24,7 +26,8 @@
 "EncodingSpeed" = "Скорость обработки";
 "EncodingSpeedDesc" = "Скорость обработки видео:\n• Сверхбыстрая (ultrafast): Самая быстрая, но больший размер файла.\n• Быстрая (faster): Оптимальный баланс скорости и размера.\n• Средняя (medium): Медленнее, но минимальный размер файла.";
 
-"Cache" = "Кеш";
+"Other" = "Другое";
+"NotifyUpdates" = "Уведомлять об обновлениях";
 "AutoClearCache" = "Очищать кеш при запуске";
 "ClearCache" = "Очистить кеш";
 
@@ -58,6 +61,12 @@
 "SomethingWentWrong" = "Что-то пошло не так";
 "GlowSettings" = "Настройки Glow";
 "FacebookSettings" = "Настройки Facebook";
+
+"NewUpdate" = "Доступно обновление: v%@";
+"Update.Tweak" = "Скачать твик";
+"Update.IPA" = "Скачать IPA";
+"Update.Repo" = "Репозитории";
+"Update.Dismiss" = "Закрыть";
 
 "Welcome.Download" = "Загрузка медиа";
 "Welcome.DownloadDesc" = "Скачивайте всё, что вам по душе — видео, изображения, Reels и даже истории.";

@@ -5,6 +5,8 @@
 "PostLikeConfirm" = "تأكيد الإعجاب";
 "DownloadVideos" = "حفظ الفيديوهات";
 "DownloadVideosDesc" = "يتيح لك حفظ جميع الفيديوهات والقصص بالضغط المطوّل";
+"RemoveRecs" = "Remove recommendations";
+"RemoveRecsDesc" = "Removes recommended posts\nNOTE: Needs enough follows to work properly";
 
 "Reels" = "الريلز";
 "DownloadReels" = "حفظ فيديوهات الريلز";
@@ -24,7 +26,8 @@
 "EncodingSpeed" = "سرعة اعادة الترميز";
 "EncodingSpeedDesc" = "سرعة إعادة ترميز الفيديو:\n• فائق السرعة (ultrafast): أقصى سرعة، جودة أقل، وحجم ملف أكبر.\n• سريع (faster): سرعة جيدة، وجودة متوسطة.\n• متوسط (medium): أفضل توازن بين السرعة والجودة، وحجم ملف أصغر.";
 
-"Cache" = "الملفات المؤقته";
+"Other" = "Other";
+"NotifyUpdates" = "Notify about updates";
 "AutoClearCache" = "تنظيف الملفات المؤقته عند بدء التطبيق";
 "ClearCache" = "تنظيف الملفات المؤقته";
 
@@ -58,6 +61,12 @@
 "SomethingWentWrong" = "حدث خطأ";
 "GlowSettings" = "اعدادات Glow";
 "FacebookSettings" = "اعدادات Facebook";
+
+"NewUpdate" = "Update available: v%@";
+"Update.Tweak" = "Download tweak";
+"Update.IPA" = "Download IPA";
+"Update.Repo" = "Repositories";
+"Update.Dismiss" = "Dismiss";
 
 "Welcome.Download" = "حفظ الفيديوهات";
 "Welcome.DownloadDesc" = "احفظ كل ماتريد من فيديوهات، صور.، ريلز ، وحتى القصص";
