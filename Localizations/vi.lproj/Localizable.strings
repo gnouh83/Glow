@@ -21,8 +21,8 @@
 
 "Downloader" = "Trình tải video";
 "AllFormats" = "Bao gồm tất cả các định dạng";
-"EncodingSpeed" = "Encoding speed";
-"EncodingSpeedDesc" = "Video encoding speed:\n• Ultrafast: Fastest processing, larger file size.\n• Faster: Good speed and file size balance.\n• Medium: Slower processing, smaller file size.";
+"EncodingSpeed" = "Tốc độ mã hóa";
+"EncodingSpeedDesc" = "Tốc độ mã hóa video:\n• Ultrafast: Xử lý nhanh nhất, kích thước tệp lớn hơn.\n• Faster: Cân bằng giữa tốc độ và kích thước tệp.\n• Medium: Xử lý chậm hơn, kích thước tệp nhỏ hơn.";
 
 "Cache" = "Bộ nhớ đệm";
 "AutoClearCache" = "Xóa bộ nhớ đệm khi khởi động";
