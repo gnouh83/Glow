@@ -6,7 +6,7 @@
 "DownloadVideos" = "下載影片";
 "DownloadVideosDesc" = "長按即可從動態消息和限時動態下載影片";
 "RemoveRecs" = "移除推薦內容";
-"RemoveRecsDesc" = "移除推薦貼文\n注意：需追蹤足夠數量的帳戶以確保正常運作";
+"RemoveRecsDesc" = "移除推薦貼文\n注意：需追蹤足夠數量的帳戶才能確保功能正常";
 
 "Reels" = "Reels 影片";
 "DownloadReels" = "下載影片";
@@ -65,7 +65,7 @@
 "NewUpdate" = "新版本可用: v%@";
 "Update.Tweak" = "下載插件";
 "Update.IPA" = "下載 IPA";
-"Update.Repo" = "軟體源";
+"Update.Repo" = "插件儲存庫";
 "Update.Dismiss" = "忽略";
 
 "Welcome.Download" = "下載媒體";
