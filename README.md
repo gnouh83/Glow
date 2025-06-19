@@ -48,8 +48,9 @@ Review by [@qbap](https://github.com/qbap) on ONE Jailbreak: https://onejailbrea
   <li>Navigate to the <strong>Actions tab</strong> in your forked repository and select <strong>Build Glow for Facebook app</strong>.</li>
   <li>Click the <strong>Run workflow</strong> button located on the right side.</li>
   <li>Prepare a decrypted .ipa file <em>(we cannot provide this due to legal reasons)</em>, then upload it to a file provider (e.g., filebin.net, filemail.com, or Dropbox is recommended). Paste the URL of the decrypted IPA file in the provided field.</li>
-  <li><span style="color: red; font-weight: bold;">NOTE:</span> Make sure to provide a direct download link to the file, not a link to a webpage. Otherwise, the process will fail.</li>
+  <li><strong>NOTE:</strong> Make sure to provide a direct download link to the file, not a link to a webpage. Otherwise, the process will fail.</li>
   <li>You can also change the BundleID and Display Name if desired.</li>
   <li>Make sure all inputs are correct, then click <strong>Run workflow</strong> to start the process.</li>
   <li>Wait for the build to finish. You can download <strong>Glow for Facebook</strong> app from the releases section of your forked repo. (If you can't find the releases section, go to your forked repo and add /releases to the URL, i.e., github.com/user/Glow/releases.)</li>
+  <li>Additionally, a <code>.cyan</code> file will be included in the releases section, which can be useful for locally injecting the tweak and its full configuration into an IPA file.</li>
 </ol>

@@ -45,7 +45,7 @@ jobs:
         with:
           exclude_inputs: display_name,bundle_id
 
-      - name: Download and validate IPA
+      - name: Download and Validate IPA
         run: |
           wget "${{ inputs.ipa_url }}" --no-verbose -O ${{ github.workspace }}/facebook.ipa
 
@@ -89,14 +89,20 @@ jobs:
           wget "$deb_url" --no-verbose -O ${{ github.workspace }}/glow_fb.deb
 
       - name: Inject tweaks into IPA
-        run: cyan -i facebook.ipa -o Glow_FB_${{ env.GLOW_TAG }}.ipa -uwef glow_fb.deb -n "${{ inputs.display_name }}" -b ${{ inputs.bundle_id }} -s
+        run: |
+          cyan_args="-uwesf glow_fb.deb -n '${{ inputs.display_name }}' -b ${{ inputs.bundle_id }} -o Glow_FB_${{ env.GLOW_TAG }}"
+          cyan -i facebook.ipa ${cyan_args}.ipa
+          cgen ${cyan_args}.cyan
 
       - uses: softprops/action-gh-release@v2.0.1
         with:
-          tag_name: glow-fb-${{ env.GLOW_TAG }}
-          name: Glow_FB ${{ env.GLOW_TAG }}
-          files: Glow_FB_${{ env.GLOW_TAG }}.ipa
+          tag_name: glow-fb-${{ env.GLOW_TAG }}-(${{ github.run_number }})
+          name: Glow_FB ${{ env.GLOW_TAG }} (${{ github.run_number }})
+          files: |
+            Glow_FB_${{ env.GLOW_TAG }}.ipa
+            Glow_FB_${{ env.GLOW_TAG }}.cyan
           draft: true
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Output Release URL
         run: |
