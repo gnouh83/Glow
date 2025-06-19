@@ -5,8 +5,8 @@
 "PostLikeConfirm" = "Xác nhận thích bài viết";
 "DownloadVideos" = "Tải video";
 "DownloadVideosDesc" = "Nhấn giữ để tải video từ bảng tin và story";
-"RemoveRecs" = "Remove recommendations";
-"RemoveRecsDesc" = "Removes recommended posts\nNOTE: Needs enough follows to work properly";
+"RemoveRecs" = "Xóa bài viết được đề xuất";
+"RemoveRecsDesc" = "Xóa các bài viết được đề xuất\nLưu ý: Cần đủ lượt theo dõi để hoạt động chính xác nhất";
 
 "Reels" = "Reels";
 "DownloadReels" = "Tải reels";
@@ -26,8 +26,8 @@
 "EncodingSpeed" = "Tốc độ mã hóa";
 "EncodingSpeedDesc" = "Tốc độ mã hóa video:\n• Ultrafast: Xử lý nhanh nhất, kích thước tệp lớn hơn.\n• Faster: Cân bằng giữa tốc độ và kích thước tệp.\n• Medium: Xử lý chậm hơn, kích thước tệp nhỏ hơn.";
 
-"Other" = "Other";
-"NotifyUpdates" = "Notify about updates";
+"Other" = "Khác";
+"NotifyUpdates" = "Thông báo về cập nhật mới";
 "AutoClearCache" = "Xóa bộ nhớ đệm khi khởi động";
 "ClearCache" = "Xóa bộ nhớ đệm";
 
@@ -62,11 +62,11 @@
 "GlowSettings" = "Cài đặt Glow";
 "FacebookSettings" = "Cài đặt Facebook";
 
-"NewUpdate" = "Update available: v%@";
-"Update.Tweak" = "Download tweak";
-"Update.IPA" = "Download IPA";
-"Update.Repo" = "Repositories";
-"Update.Dismiss" = "Dismiss";
+"NewUpdate" = "Đã có bản cập nhật: v%@";
+"Update.Tweak" = "Tải xuống tweak";
+"Update.IPA" = "Tải xuống IPA";
+"Update.Repo" = "Kho lưu trữ";
+"Update.Dismiss" = "Bỏ qua";
 
 "Welcome.Download" = "Tải phương tiện";
 "Welcome.DownloadDesc" = "Tải bất cứ gì bạn thích — video, hình ảnh, reels, thậm chí cả story.";
