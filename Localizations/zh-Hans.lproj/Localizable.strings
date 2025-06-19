@@ -1,6 +1,6 @@
 "Main" = "主页";
 "RemoveAds" = "移除广告";
-"RemovePYMK" = "移除\"可能认识的人\"";
+"RemovePYMK" = "移除\“可能认识的人\”";
 "RemoveReelsCarousel" = "移除短视频轮播";
 "PostLikeConfirm" = "点赞确认";
 "DownloadVideos" = "下载视频";
@@ -17,12 +17,12 @@
 "DownloadStories" = "下载故事";
 "AnonymousStories" = "匿名观看";
 "DisableAutoNext" = "禁用自动切换";
-"RemoveStoryPYMK" = "移除\"可能认识的人\"";
+"RemoveStoryPYMK" = "移除\“可能认识的人\”";
 
-"Downloader" = "Video Downloader";
-"AllFormats" = "Include all formats";
-"EncodingSpeed" = "Encoding speed";
-"EncodingSpeedDesc" = "Video encoding speed:\n• Ultrafast: Fastest processing, larger file size.\n• Faster: Good speed and file size balance.\n• Medium: Slower processing, smaller file size.";
+"Downloader" = "视频下载器";
+"AllFormats" = "包含所有格式";
+"EncodingSpeed" = "编码速度";
+"EncodingSpeedDesc" = "视频编码速度：\n• 极速：处理速度最快，文件体积较大。\n• 更快：速度与文件大小平衡良好。\n• 中等：处理较慢，文件体积较小。";
 
 "Cache" = "缓存";
 "AutoClearCache" = "启动时清除缓存";
@@ -43,13 +43,13 @@
 "DownloadVideo" = "下载视频";
 "DownloadStory" = "下载故事";
 "Downloading" = "正在下载";
-"DownloadingVideo" = "Downloading video";
-"DownloadingAudio" = "Downloading audio";
-"Slow" = "Requires re-encoding";
-"Fast" = "Ultra fast";
-"MergingMedia" = "Merging media";
-"WaitsForConversion" = "Queued for conversion";
-"Error.Clipboard" = "Error. Check clipboard for log";
+"DownloadingVideo" = "正在下载视频";
+"DownloadingAudio" = "正在下载音频";
+"Slow" = "需要重新编码";
+"Fast" = "超快";
+"MergingMedia" = "正在合并媒体文件";
+"WaitsForConversion" = "已排队等待转换";
+"Error.Clipboard" = "发生错误。请检查剪贴板中的日志。";
 "Cancel" = "取消";
 "SavedToPhotos" = "已保存到照片";
 "ImageNotFound" = "未找到图片";
