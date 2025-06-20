@@ -1,0 +1,82 @@
+"Main" = "Ana";
+"RemoveAds" = "Reklamları kaldır";
+"RemovePYMK" = "Kişi önerilerini kaldır";
+"RemoveReelsCarousel" = "Reels karuseli bölümünü kaldır";
+"PostLikeConfirm" = "Beğeni onayı iste";
+"DownloadVideos" = "Videoları indir";
+"DownloadVideosDesc" = "Akış ve hikâyelerdeki videoları uzun basarak indir";
+"RemoveRecs" = "Önerileri kaldır";
+"RemoveRecsDesc" = "Önerilen gönderileri kaldırır\nNOT: Düzgün çalışması için yeterli takip gerekiyor";
+
+"Reels" = "Reels";
+"DownloadReels" = "Reels indir";
+"HideOverlay" = "Yer paylaşım katmanını gizle";
+"ReelsLikeConfirm" = "Reels beğenisi onayı";
+"ReelsLongTap" = "Uzun basarak indir";
+"ReelsLongTapDesc" = "İndirme butonu olmayan eski sürümler için yedek yöntem";
+
+"Stories" = "Hikâyeler";
+"DownloadStories" = "Hikâyeleri indir";
+"AnonymousStories" = "Gizli izle";
+"DisableAutoNext" = "Otomatik geçişi devre dışı bırak";
+"RemoveStoryPYMK" = "Kişi önerilerini kaldır";
+
+"Downloader" = "Video İndirici";
+"AllFormats" = "Tüm formatları dahil et";
+"EncodingSpeed" = "Kodlama hızı";
+"EncodingSpeedDesc" = "Video kodlama hızı:\n• Ultra Hızlı (Ultrafast): En hızlı işlem, daha büyük dosya boyutu.\n• Daha Hızlı (Faster): İyi hız ve dosya boyutu dengesi.\n• Orta (Medium): Daha yavaş işlem, daha küçük dosya boyutu.";
+
+"Other" = "Diğer";
+"NotifyUpdates" = "Güncellemeleri bildir";
+"AutoClearCache" = "Başlangıçta önbelleği temizle";
+"ClearCache" = "Önbelleği temizle";
+
+"Developer" = "Geliştiriciler";
+
+"DiscordDesc" = "Destek, geri bildirim veya sohbet için katıl";
+"GithubDesc" = "Glow'un reposu";
+"DvntmsDesc" = "Tüm repolarım tek yerde";
+
+"FollowMe" = "%@'yı Twitter'da takip et";
+"DonateMe" = "Glow tamamen ücretsizdir. Destek olmak isterseniz bir kahve ısmarlayabilirsiniz";
+"StoreDesc" = "Geliştirici sertifikası al ve birçok özel uygulamaya eriş";
+
+"DeveloperFooter" = "Sevgiyle kodlandı ❤️";
+
+"DownloadVideo" = "Videoyu indir";
+"DownloadStory" = "Hikâyeyi indir";
+"Downloading" = "İndiriliyor";
+"DownloadingVideo" = "Video indiriliyor";
+"DownloadingAudio" = "Ses indiriliyor";
+"Slow" = "Dönüştürme gerekiyor";
+"Fast" = "Çok hızlı";
+"MergingMedia" = "Medya birleştiriliyor";
+"WaitsForConversion" = "Dönüştürme için sırada";
+"Error.Clipboard" = "Hata. Günlüğü panoda kontrol et";
+"Cancel" = "İptal et";
+"SavedToPhotos" = "Fotoğraflara kaydedildi";
+"ImageNotFound" = "Görsel bulunamadı";
+"MarkAsSeen" = "Görüldü olarak işaretle";
+"MarkedAsSeen" = "Görüldü olarak işaretlendi";
+"SomethingWentWrong" = "Bir şeyler ters gitti";
+"GlowSettings" = "Glow ayarları";
+"FacebookSettings" = "Facebook ayarları";
+
+"NewUpdate" = "Yeni güncelleme mevcut: v%@";
+"Update.Tweak" = "Tweak indir";
+"Update.IPA" = "IPA indir";
+"Update.Repo" = "Repolar";
+"Update.Dismiss" = "Kapat";
+
+"Welcome.Download" = "Medya İndir";
+"Welcome.DownloadDesc" = "İstediğini indir — videolar, görseller, Reels'ler ve hatta hikâyeler.";
+"Welcome.Incognito" = "Gizli Mod";
+"Welcome.IncognitoDesc" = "Görünmeden kal. Hikâyeleri sadece istediğinde görülmüş olarak işaretle.";
+"Welcome.Confirmation" = "Onay Mekanizması";
+"Welcome.ConfirmationDesc" = "Yanlışlıkla beğenmekten korkma. Artık daha rahatsın.";
+"Welcome.Settings" = "Sadelik";
+"Welcome.SettingsDesc" = "Esnek ve sezgisel ayarlar — tamamen sana özel.";
+"Welcome.More" = "Ve Daha Fazlası";
+"Welcome.MoreDesc" = "Glow sadece özelliklerden ibaret değil. Konfor ve gizlilik için daha birçok aracı açığa çıkarır.";
+"Welcome.SettingsInfo" = "Glow ayarlarına herhangi bir sekmeye uzun basarak ulaşabilirsin";
+"Continue" = "Devam et";
