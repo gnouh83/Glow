@@ -52,5 +52,4 @@ Review by [@qbap](https://github.com/qbap) on ONE Jailbreak: https://onejailbrea
   <li>You can also change the BundleID and Display Name if desired.</li>
   <li>Make sure all inputs are correct, then click <strong>Run workflow</strong> to start the process.</li>
   <li>Wait for the build to finish. You can download <strong>Glow for Facebook</strong> app from the releases section of your forked repo. (If you can't find the releases section, go to your forked repo and add /releases to the URL, i.e., github.com/user/Glow/releases.)</li>
-  <li>Additionally, a <code>.cyan</code> file will be included in the releases section, which can be useful for locally injecting the tweak and its full configuration into an IPA file.</li>
 </ol>
