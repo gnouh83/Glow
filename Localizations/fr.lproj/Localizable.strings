@@ -5,8 +5,8 @@
 "PostLikeConfirm" = "Confirmer le post comme";
 "DownloadVideos" = "Télécharger des vidéos";
 "DownloadVideosDesc" = "Téléchargez des vidéos à partir du flux et des stories avec un appui long";
-"RemoveRecs" = "Remove recommendations";
-"RemoveRecsDesc" = "Removes recommended posts\nNOTE: Needs enough follows to work properly";
+"RemoveRecs" = "Supprimer les recommandations";
+"RemoveRecsDesc" = "Supprime les publications recommandées\nREMARQUE : Nécessite suffisamment d’abonnements pour fonctionner correctement";
 
 "Reels" = "Réels";
 "DownloadReels" = "Télécharger les Réels";
@@ -21,13 +21,13 @@
 "DisableAutoNext" = "Désactiver l'avance automatique";
 "RemoveStoryPYMK" = "Masquer les suggestions dans les stories";
 
-"Downloader" = "Video Downloader";
-"AllFormats" = "Include all formats";
-"EncodingSpeed" = "Encoding speed";
-"EncodingSpeedDesc" = "Video encoding speed:\n• Ultrafast: Fastest processing, larger file size.\n• Faster: Good speed and file size balance.\n• Medium: Slower processing, smaller file size.";
+"Downloader" = "Téléchargeur vidéo";
+"AllFormats" = "Inclure tous les formats";
+"EncodingSpeed" = "Vitesse d'encodage";
+"EncodingSpeedDesc" = "Vitesse d'encodage vidéo:\n• Ultrafast: traitement le plus rapide, taille de fichier plus grande.\n• Faster: bon équilibre entre vitesse et taille.\n• Medium: traitement plus lent, taille de fichier plus petite.";
 
-"Other" = "Other";
-"NotifyUpdates" = "Notify about updates";
+"Other" = "Autre";
+"NotifyUpdates" = "Notifier des mises à jour";
 "AutoClearCache" = "Vider le cache au démarrage";
 "ClearCache" = "Vider le cache";
 
@@ -46,13 +46,13 @@
 "DownloadVideo" = "Télécharger la vidéo";
 "DownloadStory" = "Télécharger la storie";
 "Downloading" = "Téléchargement";
-"DownloadingVideo" = "Downloading video";
-"DownloadingAudio" = "Downloading audio";
-"Slow" = "Requires re-encoding";
-"Fast" = "Ultra fast";
-"MergingMedia" = "Merging media";
-"WaitsForConversion" = "Queued for conversion";
-"Error.Clipboard" = "Error. Check clipboard for log";
+"DownloadingVideo" = "Téléchargement de la vidéo";
+"DownloadingAudio" = "Téléchargement de l’audio";
+"Slow" = "Requiert une ré-encodage";
+"Fast" = "Ultra rapide";
+"MergingMedia" = "Fusion des médias";
+"WaitsForConversion" = "En attente de conversion";
+"Error.Clipboard" = "Erreur. Vérifiez le presse-papiers pour le journal";
 "Cancel" = "Annuler";
 "SavedToPhotos" = "Enregistré dans les photos";
 "ImageNotFound" = "Image introuvable";
@@ -62,11 +62,11 @@
 "GlowSettings" = "Paramètres de Glow";
 "FacebookSettings" = "Paramètres de Facebook";
 
-"NewUpdate" = "Update available: v%@";
-"Update.Tweak" = "Download tweak";
-"Update.IPA" = "Download IPA";
-"Update.Repo" = "Repositories";
-"Update.Dismiss" = "Dismiss";
+"NewUpdate" = "Mise à jour disponible : v%@";
+"Update.Tweak" = "Télécharger le tweak";
+"Update.IPA" = "Télécharger l’IPA";
+"Update.Repo" = "Dépôts";
+"Update.Dismiss" = "Fermer";
 
 "Welcome.Download" = "Télécharger des médias";
 "Welcome.DownloadDesc" = "Téléchargez ce que vous voulez : vidéos, images, Reels et même des stories.";
