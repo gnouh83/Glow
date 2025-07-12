@@ -91,6 +91,15 @@ jobs:
       - name: Inject tweaks into IPA
         run: cyan -i facebook.ipa -o Glow_FB_${{ env.GLOW_TAG }}.ipa -uwef glow_fb.deb -n "${{ inputs.display_name }}" -b ${{ inputs.bundle_id }} -s
 
+      - name: Strip embedded Swift dylibs
+        run: |
+          unzip -q Glow_FB_${{ env.GLOW_TAG }}.ipa -d tmp_payload
+          find tmp_payload/Payload/*.app/ -name "libswift*.dylib" -print -delete
+          cd tmp_payload
+          zip -qr ../Glow_FB_${{ env.GLOW_TAG }}_clean.ipa Payload
+          cd ..
+          mv Glow_FB_${{ env.GLOW_TAG }}_clean.ipa Glow_FB_${{ env.GLOW_TAG }}.ipa
+
       - uses: softprops/action-gh-release@v2.0.1
         with:
           tag_name: glow-fb-${{ env.GLOW_TAG }}
