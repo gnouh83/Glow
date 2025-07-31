@@ -105,7 +105,7 @@ jobs:
           tag_name: glow-fb-${{ env.GLOW_TAG }}
           name: Glow_FB ${{ env.GLOW_TAG }}
           files: Glow_FB_${{ env.GLOW_TAG }}.ipa
-          draft: true
+          draft: false
 
       - name: Output Release URL
         run: |
